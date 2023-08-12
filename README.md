@@ -10,3 +10,4 @@
 |6|TVM: An Automated End-to-End Optimizing Compiler for Deep Learning|https://arxiv.org/abs/1802.04799|
 |7|Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors|https://arxiv.org/abs/2306.17843|
 |8|Implicit Occupancy Flow Fields for Perception and Prediction in Self-Driving|https://arxiv.org/abs/2308.01471|
+|9|h2oGPT: Democratizing Large Language Models|https://arxiv.org/pdf/2306.08161v2.pdf|
