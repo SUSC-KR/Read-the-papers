@@ -1,6 +1,7 @@
 # Read-the-papers
 <details>
     <summary>2023 Summer</summary>
+    
 |Number|Title|Link|Github|
 |:---:|:---:|:---:|:---:|
 |1|ARviz – An Augmented Reality-enabled Visualization Platform for ROS Applications|https://arxiv.org/abs/2110.15521|[qor6](https://github.com/qor6)|
