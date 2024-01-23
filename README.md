@@ -1,4 +1,7 @@
 # Read-the-papers
+<details>
+    <summary>2023 Summer</summary>
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 |Number|Title|Link|Github|
 |:---:|:---:|:---:|:---:|
@@ -11,3 +14,4 @@
 |7|Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors|https://arxiv.org/abs/2306.17843|[hemham](https://github.com/hemham)|
 |8|Implicit Occupancy Flow Fields for Perception and Prediction in Self-Driving|https://arxiv.org/abs/2308.01471|[rnjswn](https://github.com/rnjswn)|
 |9|h2oGPT: Democratizing Large Language Models|https://arxiv.org/pdf/2306.08161v2.pdf|[Seungwon62](https://github.com/Seungwon62)|
+</details>
