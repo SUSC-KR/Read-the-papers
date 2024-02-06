@@ -24,4 +24,5 @@
 |2|YOLOv4: Optimal Speed and Accuracy of Object Detection|[https://arxiv.org/abs/2004.10934](https://arxiv.org/abs/2004.10934)|[오승연](https://github.com/syeony)|
 |3|SlowFast Networks for Video Recognition|[https://arxiv.org/abs/1812.03982](https://arxiv.org/abs/1812.03982)|[김주연](https://github.com/KJY477)|
 |4|Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks|[https://arxiv.org/abs/1511.06434](https://arxiv.org/abs/1511.06434)|[김건호](https://github.com/secripite)|
+|5|A Two-stream Neural Network for Pose-based Hand Gesture Recognition|[https://arxiv.org/abs/2101.08926](https://arxiv.org/abs/2101.08926)|[최담록](https://github.com/secripite)|
 </details>
