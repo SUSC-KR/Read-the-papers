@@ -71,7 +71,7 @@
 - **Reference 분석**:  
   - **Abstract와 Introduction에서 주요 Reference**:  
     > (이 섹션에서 중요하게 언급된 Reference)  
-  - **Related Work 섹션의 주요 Reference**:  
+  - **Problem Statement 섹션의 주요 Reference**:  
     > (기존 연구 및 비교 대상 연구를 요약)  
   - **Methods 및 Results의 주요 Reference**:  
     > (핵심 기법 및 비교 연구 기반 Reference)  
@@ -102,6 +102,7 @@
 ## 6. 논문 2회독, 3회독 진행
 
 
+## SUSC 논문읽기 스터디 History
 <details>
     <summary>2023 Summer</summary>
     
